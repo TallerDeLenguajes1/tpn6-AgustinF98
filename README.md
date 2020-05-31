@@ -22,3 +22,4 @@ _El tipo string cuenta con varias secuencias de escape, algunas de ellas:_
 
 ##### ¿Qué sucede cuando utiliza el carácter @ antes de una cadena de texto?
 
+_Al agregar el caracter @ delante de las comillas de un string, se interpreta literalmente el contenido de la cadena sin prestar atención a códigos de escape, saltos de línea, o cualquier otro símbolo que está contenga._
